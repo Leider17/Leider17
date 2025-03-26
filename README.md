@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/Aryagm">Leider Solano<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
+<div align="center"><img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /></div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leider17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+
+<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJuaWZxM3lnZzMwYzZhOHFqeXpramxheXltcmh1a29pOGxvdGNudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
 ###
-
-<img align="right" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc6PzGotjeuU0wbkYfj_9XpOfKphu2PlPbRiS-QdGwtzq8KReojyHb7cvPNjj5LVlUlh8&usqp=CAU"  />
-
-###
-
+<h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
