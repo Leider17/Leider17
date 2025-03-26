@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Leider and I'm a Developer</h2>
+<h1 align="center">Hi, I'm <a href="https://github.com/Aryagm">Leider Solano<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
 
 ###
 
@@ -8,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc6PzGotjeuU0wbkYfj_9XpOfKphu2PlPbRiS-QdGwtzq8KReojyHb7cvPNjj5LVlUlh8&usqp=CAU"  />
+<img align="right" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc6PzGotjeuU0wbkYfj_9XpOfKphu2PlPbRiS-QdGwtzq8KReojyHb7cvPNjj5LVlUlh8&usqp=CAU"  />
 
 ###
 
@@ -51,6 +52,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Leider17/Leider17/output/snake.svg" alt="Snake animation" />
 
 ###
